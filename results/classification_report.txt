@@ -1,0 +1,11 @@
+Random Forest Classification Report
+===================================
+
+              precision    recall  f1-score   support
+
+      BENIGN     0.9998    1.0000    0.9999     24617
+    PortScan     1.0000    0.9998    0.9999     18139
+
+    accuracy                         0.9999     42756
+   macro avg     0.9999    0.9999    0.9999     42756
+weighted avg     0.9999    0.9999    0.9999     42756
